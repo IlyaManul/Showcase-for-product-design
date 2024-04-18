@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Files above 50M don't upload to GitHub
+Content/Metahumans/*
+Content/Shoes/*
